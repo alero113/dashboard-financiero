@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: dashboard-financiero
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
